@@ -1,0 +1,2 @@
+# Differential Amplification and RGB-IR Feature Interaction for Object Detection
+The code for this paper will be made available after the article is published.
